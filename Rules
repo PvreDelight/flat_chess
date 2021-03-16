@@ -1,0 +1,25 @@
+Basic Rules: 
+  All pieces move like normal chess pieces (exception of pawns)
+  Walls block any piece except for dynamite pawn (see dynamite pawn) from going through them
+  There is not checkmate implemented yet so it is your decision on how the game ends.
+  
+
+Pawns:
+  Pawns are promoted to queens at the front door
+  Pawns cannot move two spaces on the first go
+  Pawns can move in any direction  
+  When a pawn is promoted its skin does not change yet.
+  
+Dynamite Pawn:
+  Each team is given one dynamite pawn that has the power to blow up a 1x1 hole in a wall once. 
+  The Dynamite pawn has a different skin to the rest of the pawns 
+  If the dynamite pawn is promoted to a queen before it has blown a hole in the wall the new queen will continue to have the ability to blow 1 hole in the wall.
+  
+Knights:
+  Although the game allows you to jump over walls, when we play we choose that this is not allowed. This is a rule you can decide on.
+  
+ All Other Pieces:
+  All other pieces move normally
+  
+Glitches:
+  If a piece appears it can go through many pieces or walls it is an honesty rule of don't let it.
